@@ -1,2 +1,3 @@
-.DS_Store
-.idea
+# ignore mac specefic folders 
+*.DS_Store
+*.iidea/
